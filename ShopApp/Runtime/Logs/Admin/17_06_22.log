@@ -1,0 +1,4 @@
+[ 2017-06-22T13:25:56+08:00 ] 127.0.0.1 /shop/index.php/Admin/Page/contentsM.html
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') LIMIT 1' at line 1
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `contents` WHERE ( istop=0 and ishome=0 and isvouch=0 and cid= ) LIMIT 1  
+

@@ -1,0 +1,14 @@
+[ 2017-06-22T17:06:03+08:00 ] 127.0.0.1 /shop/index.php/Home/User/about.html
+ERR: 非法操作:about
+
+[ 2017-06-22T17:33:28+08:00 ] ::1 /shop/index.php/Home/index/home
+ERR: 非法操作:home
+
+[ 2017-06-22T17:33:35+08:00 ] ::1 /shop/index.php/Home/User/home
+ERR: 1054:Unknown column 'image' in 'field list'
+ [ SQL语句 ] : SELECT `name`,`image` FROM `slider` LIMIT 3  
+
+[ 2017-06-22T17:33:51+08:00 ] ::1 /shop/index.php/Home/User/home
+ERR: 1054:Unknown column 'imsg' in 'field list'
+ [ SQL语句 ] : SELECT `name`,`imsg` FROM `slider` LIMIT 3  
+

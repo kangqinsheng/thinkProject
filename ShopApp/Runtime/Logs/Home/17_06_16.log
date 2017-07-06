@@ -1,0 +1,18 @@
+[ 2017-06-16T08:52:10+08:00 ] ::1 /shop/index.php/Home/Index/codes.html
+ERR: 非法操作:codes
+
+[ 2017-06-16T08:52:18+08:00 ] ::1 /shop/index.php/Home/Index/codes.html
+ERR: 非法操作:codes
+
+[ 2017-06-16T08:52:22+08:00 ] ::1 /shop/index.php/Home/Index/codes.html?
+ERR: 非法操作:codes
+
+[ 2017-06-16T08:52:24+08:00 ] ::1 /shop/index.php/Home/Index/codes.html
+ERR: 非法操作:codes
+
+[ 2017-06-16T08:52:24+08:00 ] ::1 /shop/index.php/Home/Index/codes.html
+ERR: 非法操作:codes
+
+[ 2017-06-16T12:48:00+08:00 ] ::1 /shop/index.php/Home/Index/login.html
+ERR: 非法操作:login
+

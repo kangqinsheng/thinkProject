@@ -1,0 +1,179 @@
+[ 2017-06-15T09:23:47+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T09:59:25+08:00 ] ::1 /shop/index.php/admin/user/info.html
+ERR: 1146:Table 'shop.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+
+[ 2017-06-15T09:59:25+08:00 ] ::1 /shop/index.php/admin/user/info.html
+ERR: 1146:Table 'shop.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+
+[ 2017-06-15T09:59:42+08:00 ] ::1 /shop/index.php/admin/user/info.html
+ERR: 1146:Table 'shop.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+
+[ 2017-06-15T10:26:11+08:00 ] ::1 /shop/index.php/Admin/User/info.html
+ERR: 1146:Table 'shop.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+
+[ 2017-06-15T10:27:00+08:00 ] ::1 /shop/index.php/Admin/User/info.html
+ERR: 1146:Table 'shop.info' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `info`
+
+[ 2017-06-15T11:10:12+08:00 ] ::1 /shop/index.php/Admin/User/updatePass.html
+ERR: 非法操作:updatePass
+
+[ 2017-06-15T11:10:59+08:00 ] ::1 /shop/index.php/Admin/User/U
+ERR: 非法操作:U
+
+[ 2017-06-15T11:13:47+08:00 ] ::1 /shop/index.php/Admin/User/aa.html
+ERR: 非法操作:aa
+
+[ 2017-06-15T11:30:35+08:00 ] ::1 /shop/index.php/Admin/User/updataPass.html
+ERR: 模板不存在:./ShopApp/Admin/View/User/updataPass.html
+
+[ 2017-06-15T11:34:14+08:00 ] ::1 /shop/index.php/Admin/User/updataPass.html
+ERR: 模板不存在:./ShopApp/Admin/View/User/updataPass.html
+
+[ 2017-06-15T11:45:13+08:00 ] ::1 /shop/index.php/Admin/User/__APP__/Home/View/User/login.html
+ERR: 非法操作:__APP__
+
+[ 2017-06-15T11:46:28+08:00 ] ::1 /shop/index.php/Admin/User/logout
+ERR: 模板不存在:./ShopApp/Admin/View/User/logout.html
+
+[ 2017-06-15T12:09:15+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T12:09:15+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T12:10:08+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T12:10:08+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T12:10:10+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T12:10:11+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T12:10:11+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T12:10:12+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T12:52:08+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T12:52:08+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T13:11:09+08:00 ] ::1 /shop/index.php/Admin/Page/info
+ERR: 非法操作:info
+
+[ 2017-06-15T13:33:28+08:00 ] ::1 /shop/index.php/Admin/Page/slider
+ERR: SQLSTATE[HY000] [2002] �������ӷ���һ��ʱ���û����ȷ�𸴻����ӵ�����û�з�Ӧ�����ӳ���ʧ�ܡ�
+
+
+[ 2017-06-15T15:16:24+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T15:22:55+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T15:22:56+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T15:25:49+08:00 ] ::1 /shop/index.php/Admin/User/cate.html
+ERR: 非法操作:cate
+
+[ 2017-06-15T16:08:33+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1146:Table 'shop.cata' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `cate` LEFT JOIN cata as b on cate.p_id=b.id  
+
+[ 2017-06-15T16:08:52+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1054:Unknown column 'b.id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `cate` LEFT JOIN cate as b on cate.p_id=b.id  
+
+[ 2017-06-15T16:09:14+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1054:Unknown column 'b.id' in 'on clause'
+ [ SQL语句 ] : SELECT * FROM `cate` LEFT JOIN cate b on cate.p_id=b.id  
+
+[ 2017-06-15T16:09:23+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1066:Not unique table/alias: 'cate'
+ [ SQL语句 ] : SELECT * FROM `cate` LEFT JOIN cate on cate.p_id=b.id  
+
+[ 2017-06-15T16:09:53+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1066:Not unique table/alias: 'cate'
+ [ SQL语句 ] : SELECT * FROM `cate` LEFT JOIN `cate` on cate.p_id=cate.id  
+
+[ 2017-06-15T16:13:05+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1054:Unknown column 'b.id' in 'on clause'
+ [ SQL语句 ] : select * from `cate` as a join `cate` as b on a.p_id=b.id
+
+[ 2017-06-15T16:14:55+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1054:Unknown column 'b.id' in 'on clause'
+ [ SQL语句 ] : select * from `cate` as a join `cate` as b on `a`.`p_id`=`b`.`id`
+
+[ 2017-06-15T16:19:50+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1054:Unknown column 'b.id' in 'on clause'
+ [ SQL语句 ] : select * from `cate` as a left join `cate` as b on a.p_id=b.id
+
+[ 2017-06-15T16:20:42+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1054:Unknown column 'b.id' in 'on clause'
+ [ SQL语句 ] : select * from `cate` a left join `cate` b on a.p_id=b.id
+
+[ 2017-06-15T16:21:55+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1054:Unknown column 'a.id' in 'on clause'
+ [ SQL语句 ] : select * from `cate` a left join `cate` b on a.id=b.p_id
+
+[ 2017-06-15T16:23:34+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1052:Column 'title' in field list is ambiguous
+ [ SQL语句 ] : select title,b.title as p_title from `cate` a left join `cate` b on a.p_id=b.p_id
+
+[ 2017-06-15T16:27:55+08:00 ] ::1 /shop/index.php/Admin/Page/cate.html
+ERR: 1054:Unknown column 'id' in 'field list'
+ [ SQL语句 ] : SELECT id title FROM `cate` WHERE ( p_id=0 ) 
+
+[ 2017-06-15T16:52:21+08:00 ] ::1 /shop/index.php/Admin/Page/cateedit.html
+ERR: 非法操作:cateedit
+
+[ 2017-06-15T17:23:15+08:00 ] ::1 /shop/index.php/Admin/Page/delCate.html?id=undefined
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `cate` WHERE ( p_id=undefined ) 
+
+[ 2017-06-15T17:26:42+08:00 ] ::1 /shop/index.php/Admin/Page/delCate.html?id=undefined
+ERR: 1054:Unknown column 'undefined' in 'where clause'
+ [ SQL语句 ] : SELECT * FROM `cate` WHERE ( p_id=undefined ) 
+
+[ 2017-06-15T17:45:46+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T17:48:49+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T17:48:51+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T17:48:53+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T17:48:56+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T17:48:56+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T17:56:03+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T17:56:03+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
+[ 2017-06-15T17:56:06+08:00 ] ::1 /shop/index.php/Admin/User/js/laydate/laydate.js
+ERR: 非法操作:js
+
